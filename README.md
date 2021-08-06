@@ -5,7 +5,7 @@ El primero se realiza sobre los datos extraídos de un estudio previo y trata so
 
 Para dicho estudio, se utiliza el archivo en R proporcionado por el propio [Portal del CNE](https://portalcne.isciii.es/enecovid19/), modificando el código conforme nos interesa para el estudio. Eliminando columnas y filas irrelevantes para nuestro objetivo, quedando el [archivo editado](https://github.com/marcascal2/evolucion-casos-COVID-19-TDA/blob/main/seroprevalencia/data.R).
 
-El segundo estudio se basa en los datos oficiales del COVID-19 en España disponibles a través del [repositorio](https://github.com/rubenfcasal/COVID-19). En este repositorio se puede encontrar tanto información relativa a los datos utilizados como la explicación de los distintos archivos que se generan tras ejecutar el código proporcionado. Todos los archivos referentes a este segundo estudio se encuentran organizados en la carpeta ***/casos_ccaas***
+El segundo estudio se basa en los datos oficiales del COVID-19 en España disponibles a través del [repositorio](https://github.com/rubenfcasal/COVID-19). En este repositorio se puede encontrar tanto información relativa a los datos utilizados, como la explicación de los distintos archivos que se generan tras ejecutar el código proporcionado. Todos los archivos referentes a este segundo estudio se encuentran organizados en la carpeta ***/casos_ccaas***
 
 En nuestro caso, se ha hecho uso de uno de los archivos incluidos en el repositorio mencionado [COVID-19-actualizar.R](https://github.com/rubenfcasal/COVID-19/blob/master/COVID-19-actualizar.R), realizando los cambios oportunos para el tratamiento de datos según nuestros intereses:
 
