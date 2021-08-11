@@ -13,3 +13,10 @@ En nuestro caso, se ha hecho uso de uno de los archivos incluidos en el reposito
 * [Madrid. Pre-vacunación (MAR-ABR 2020)](https://github.com/marcascal2/evolucion-casos-COVID-19-TDA/tree/main/casos_ccaas/Madrid/Pre-vacunacion%20(MAR-ABR%202020)): Caso sobre todos los datos de la Comunidad de Madrid recogidos durante el periodo entre el 1 de marzo de 2020 y el 30 de abril de 2020.
 * [Madrid. Pos-vacunación (MAR-ABR 2021)](https://github.com/marcascal2/evolucion-casos-COVID-19-TDA/tree/main/casos_ccaas/Madrid/Pos-vacunacion%20(MAR-ABR%202021)): Caso sobre todos los datos de la Comunidad de Madrid recogidos durante el periodo entre el 1 de marzo de 2021 y el 30 de abril de 2021.
 * [Madrid. Pos-vacunación (JUN-JUL 2021)](https://github.com/marcascal2/evolucion-casos-COVID-19-TDA/tree/main/casos_ccaas/Madrid/Pos-vacunacion%20(JUN-JUL%202021)): Caso sobre todos los datos de la Comunidad de Madrid recogidos durante el periodo entre el 1 de junio de 2021 y el 31 de julio de 2021.
+
+## Código BallMapper
+El código referente al algoritmo BallMapper se obtiene del [sitio web](https://cran.r-project.org/web/packages/BallMapper/index.html).
+
+Se ha utilizado el paquete con el código descargado, en concreto la clase [BallMapper.R](https://github.com/marcascal2/evolucion-casos-COVID-19-BM/blob/main/ball-mapper/R/BallMapper.R) que cuenta con las funciones necesarias de normalización y del algortimo en sí.
+
+Este paquete ha sido generado por Paweł Dłotko, matemático e informático, cuya principal área de especialización es la topología computacional. 
